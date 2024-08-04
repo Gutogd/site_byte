@@ -1,0 +1,27 @@
+.titulo{
+    display: flex;
+    justify-content: center; 
+    flex-direction: column;
+    align-items: center;   
+}
+
+body{
+    background: linear-gradient(to right, rgb(81, 161, 252),rgb(137, 244, 252));
+}
+
+
+.box{
+    background-color: rgb(174, 129, 245);
+    width: 50%;
+    border-radius: 20px;
+}
+
+div{
+    display: block;
+    unicode-bidi: isolate;
+}
+
+a{
+  color: rgb(253, 0, 0);
+  font-size: 25px
+}
